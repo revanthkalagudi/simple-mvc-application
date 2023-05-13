@@ -25,7 +25,7 @@ Follow these step-by-step instructions to download and run the MVC application o
 
 3. **Import the Project:** Launch IntelliJ IDEA and select "Open" from the welcome screen. Navigate to the location where you cloned the repository and choose the project's root directory. Click "Open" to import the project.
 
-4.** Configure the Database:** Before running the application, ensure that you have MySQL Server installed and running on your machine. **Open MySQL Workbench and create a new database with a suitable name for your application.** The database name that you use here should be the same as the database name that you provide in **applications.properties** file(Check Step 6).
+4. **Configure the Database:** Before running the application, ensure that you have MySQL Server installed and running on your machine. **Open MySQL Workbench and create a new database with a suitable name for your application.** The database name that you use here should be the same as the database name that you provide in **applications.properties** file(Check Step 6).
 
 5. **Update Application Configuration:** In the project, locate the application.properties file. Open it and update the following properties according to your MySQL configuration:
 
